@@ -16,4 +16,6 @@ is integrated with cognito and, especially, amplify.
 I really like using Dash and aws to deploy analytics sites.
 Dash solely does not provide everything that could possibly be
 needed with an enterprise system but from within a properly
-maintained aws infastructure it could..
+maintained aws infastructure it could.
+
+Ryan Schulte
